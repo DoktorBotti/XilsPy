@@ -3,6 +3,11 @@ dist/
 _build/
 _generate/
 *.so
+*.dll
+*.lib
 *.py[cod]
 *.egg-info
 *env*
+.idea/
+.vscode/
+cmake-build-*/
